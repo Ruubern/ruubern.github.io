@@ -1,0 +1,1 @@
+document.body.style.backgroundColor = "#a2a2a2"

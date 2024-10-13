@@ -1,14 +1,4 @@
-
-        /*h1 {
-            color: rgb(209, 191, 31);
-            font-family: helvetica, serif;
-            font-size: 2000%;
-            border: 1px rgb(209, 191, 31);
-            padding: 1px;
-            text-align: center;
-        }*/
-        
-        h1 {
+h1 {
             color: rgb(243, 243, 243);
             font-family: helvetica, serif;
             font-size: 6vw;
@@ -39,7 +29,7 @@
             margin: auto;
             /* background-color: #ab9696; */
             /* max-width: 50%; */
-            max-width: 600px;
+            max-width: 1000px;
               /* Styles for small screens */
             min-width: 201px;
               /* Styles for larger screens */
@@ -62,5 +52,25 @@
                 /* Styles for small screens */
                 min-width: 201px;
                 /* Styles for larger screens */
+                text-decoration: none;
+                vertical-align: bottom;
               }
-              
+          nav a:hover {
+            color: white;
+            background-color: rgb(49, 49, 49);
+          }
+          h2 {
+            font-size: 3vw;
+            color: rgb(243, 243, 243);
+            font-family: helvetica, serif;
+            text-shadow: 1px 1px #000000;
+            text-align: center;
+            margin: auto;
+            /* background-color: #ab9696; */
+            /* max-width: 50%; */
+            max-width: 1000px;
+              /* Styles for small screens */
+            min-width: 201px;
+              /* Styles for larger screens */
+            
+          }
